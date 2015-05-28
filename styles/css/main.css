@@ -1,0 +1,21 @@
+.outer-wrapper {
+  width: 100%;
+  position: relative;
+}
+
+.inner-wrapper {
+  width: 90%;
+  position: relative;
+  margin: 0 auto;
+}
+
+body {
+  background: gainsboro;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+header {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+}

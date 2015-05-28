@@ -1,0 +1,21 @@
+{
+  "name": "practice-project",
+  "version": "0.1.0",
+  "description": "Some Backbone some Gulp",
+  "author": "cmd",
+  "homepage": "to be hosted on github",
+  "license": "MIT",
+  "repository": {
+    "private": false
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-copy": "0.0.2",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-watch": "^4.2.4"
+  }
+}
